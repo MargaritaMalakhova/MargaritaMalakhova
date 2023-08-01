@@ -5,7 +5,9 @@
 
 Stack: ![Java](/icons/Java.png)![Intelij_IDEA](/icons/Intelij_IDEA.png)![Gradle](/icons/Gradle.png)![Selenide](/icons/Selenide.png)![Rest-Assured](/icons/Rest-Assured.png)![Selenoid](/icons/Selenoid.png)![JUnit5](/icons/JUnit5.png)![Jenkins](/icons/Jenkins.png)![Allure_Report](/icons/Allure_Report.png)![AllureTestOps](/icons/AllureTestOps.png)</br></br>
 
+You can find my diploma projects with automation testing (Web and API) here :point_down:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MargaritaMalakhova&repo=qa_guru_final_project_Burda_UI)](https://github.com/MargaritaMalakhova/qa_guru_final_project_Burda_UI) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MargaritaMalakhova&repo=qa_guru_final_project_apichallenges_herokuapp)](https://github.com/MargaritaMalakhova/qa_guru_final_project_apichallenges_herokuapp)
 
 My LinkedIn profile:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/margarita-malakhova//)  
 
