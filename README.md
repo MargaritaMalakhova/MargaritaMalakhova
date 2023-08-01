@@ -1,7 +1,9 @@
 ### Hi there 👋, my name is Margarita
 #### I am Manual and Automation QA
+</br>
 
 :woman_technologist: Here you can find my study projects
+</br></br>
 
 Stack: ![Java](/icons/Java.png)![Intelij_IDEA](/icons/Intelij_IDEA.png)![Gradle](/icons/Gradle.png)![Selenide](/icons/Selenide.png)![Rest-Assured](/icons/Rest-Assured.png)![Selenoid](/icons/Selenoid.png)![JUnit5](/icons/JUnit5.png)![Jenkins](/icons/Jenkins.png)![Allure_Report](/icons/Allure_Report.png)![AllureTestOps](/icons/AllureTestOps.png)</br></br>
 
